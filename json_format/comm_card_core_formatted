@@ -1,0 +1,72 @@
+{
+    "boxID": "0x100000000000-10060-",
+    "header": {
+        "jumpInfo": {
+            "jumpType": 2,
+            "reportId": "header:header",
+            "userName": "gh_f6d6ec1a88ac@app",
+            "weappUrl": "/pages/company/index?eid=e5593692-de37-4257-b28a-159b84a0d597&jumpFrom=widget&from=widget&keyword=银川合宜科技有限公司&ts=1726145275995&listindex=0"
+        },
+        "title": "<em class=\"highlight\">银川合宜科技有限公司</em> - 企业信息",
+        "type": 0
+    },
+    "items": [
+        {
+            "action": {
+                "jumpInfo": {
+                    "debugMode": 0,
+                    "jumpType": 2,
+                    "reportId": "%E9%93%B6%E5%B7%9D%E5%90%88%E5%AE%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:416567",
+                    "userName": "gh_f6d6ec1a88ac@app",
+                    "weappAppid": "wxe45b0e313b2457ec",
+                    "weappUrl": "/pages/company/index?eid=e5593692-de37-4257-b28a-159b84a0d597&jumpFrom=widget&from=widget&keyword=银川合宜科技有限公司&ts=1726145275995&listindex=0"
+                },
+                "noTopLine": 1,
+                "title": "更多工商信息、司法涉诉、知识产权等"
+            },
+            "docID": "1-15794948868303896292",
+            "itemInfo": {
+                "list": [
+                    {
+                        "label": "法定代表人",
+                        "value": "邱丰冠"
+                    },
+                    {
+                        "label": "注册资本",
+                        "value": "200 万人民币"
+                    },
+                    {
+                        "label": "成立日期",
+                        "value": "2015-03-31"
+                    },
+                    {
+                        "label": "股东",
+                        "value": "邱丰冠 闫敏 王学辉"
+                    },
+                    {
+                        "label": "主要人员",
+                        "value": "邱丰冠 闫敏"
+                    }
+                ],
+                "name": "银川合宜科技有限公司",
+                "thumbUrl": "https://qxb-logo-url.oss-cn-hangzhou.aliyuncs.com/OriginalUrl/6b5f0d0a141c3a50df07b9c87e3ae983.jpg",
+                "type": 1043
+            },
+            "jumpInfo": {
+                "jumpType": 2,
+                "reportId": "panel:panel",
+                "userName": "gh_f6d6ec1a88ac@app",
+                "weappUrl": "/pages/company/index?eid=e5593692-de37-4257-b28a-159b84a0d597&jumpFrom=widget&from=widget&keyword=银川合宜科技有限公司&ts=1726145275995&listindex=0"
+            },
+            "report_iteminfo_list_str": "panel:panel;%E9%93%B6%E5%B7%9D%E5%90%88%E5%AE%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:416567"
+        }
+    ],
+    "real_type": 20971520,
+    "report_box_extinfo_str": "%7B%22commercial_settle_type%22%3A0%2C%22commercial_status%22%3A1%2C%22cpid%22%3A3507019339%2C%22encode_busi_sub_type%22%3A%2281ee21bb6dd300234b3e55baa32599e73e8b0119%22%2C%22is_commercial%22%3Atrue%7D",
+    "source": {
+        "iconUrl": "http://mmbiz.qpic.cn/mmbiz_png/Ot2fAppmFPJyAXmBUJLWH4TWViaQbfrR4dBWqtvSUlibBwe4yF87wkjGXHNHuc7NWuIUUUxthMXwpnN3tqiaqhicqw/640?wx_fmt=png&wxfrom=200",
+        "title": "启信宝商业搜索"
+    },
+    "subType": 10060,
+    "type": 52
+}

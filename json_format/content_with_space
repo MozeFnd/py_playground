@@ -1,0 +1,20 @@
+{
+    "item_list": [
+        {
+            "business_type": 2,
+            "sub_type": 0,
+            "style_list": [
+                {
+                    "style": 100,
+                    "first_line_count": 12,
+                    "line_count": 10
+                },
+                {
+                    "style": 101,
+                    "first_line_count": 14,
+                    "line_count": 12
+                }
+            ]
+        }
+    ]
+}

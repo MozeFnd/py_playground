@@ -1,0 +1,143 @@
+{
+    "box_info_json": "{\"boxID\":\"0x100000000000-10060-\",\"header\":{\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"header:header\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"title\":\"<em class=\\\"highlight\\\">#米其林轮胎</em> - 企业信息\",\"type\":0},\"items\":[{\"action\":{\"jumpInfo\":{\"debugMode\":0,\"jumpType\":2,\"reportId\":\"%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappAppid\":\"wxe45b0e313b2457ec\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"noTopLine\":1,\"title\":\"更多工商信息、司法涉诉、知识产权等\"},\"docID\":\"1-10212617446288957021\",\"itemInfo\":{\"list\":[{\"label\":\"法定代表人\",\"value\":\"叶菲\"},{\"label\":\"注册资本\",\"value\":\"111320 万人民币\"},{\"label\":\"成立日期\",\"value\":\"2001-03-22\"},{\"label\":\"股东\",\"value\":\"Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG\"},{\"label\":\"主要人员\",\"value\":\"叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚\"}],\"name\":\"上海米其林轮胎有限公司\",\"thumbUrl\":\"https://qxb-logo-url.oss-cn-hangzhou.aliyuncs.com/OriginalUrl/48b92901fc9547900f68597d3dd7acf3.jpg\",\"type\":1043},\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"panel:panel\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"report_iteminfo_list_str\":\"panel:panel;%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"title\":null}],\"real_type\":20971520,\"report_box_extinfo_str\":\"%7B%22commercial_settle_type%22%3A0%2C%22commercial_status%22%3A1%2C%22cpid%22%3A3507019339%2C%22encode_busi_sub_type%22%3A%2281ee21bb6dd300234b3e55baa32599e73e8b0119%22%2C%22is_commercial%22%3Atrue%7D\",\"source\":{\"iconUrl\":\"http://mmbiz.qpic.cn/mmbiz_png/Ot2fAppmFPJyAXmBUJLWH4TWViaQbfrR4dBWqtvSUlibBwe4yF87wkjGXHNHuc7NWuIUUUxthMXwpnN3tqiaqhicqw/640?wx_fmt=png&wxfrom=200\",\"title\":\"启信宝商业搜索\"},\"subType\":10060,\"type\":52}\n",
+    "sub_type": 10060,
+    "item_list": [
+        {
+            "doc_id": 1,
+            "title": "",
+            "string_docid": "1-10212617446288957021"
+        }
+    ],
+    "ext_info": {
+        "mixerrank_box_info": {
+            "business_type": 17592186044416,
+            "sub_type": 10060,
+            "client_type": 20971520,
+            "baikal_detail": {
+                "result": [
+                    {
+                        "doc_id": "1-10212617446288957021",
+                        "title": "上海米其林轮胎有限公司-企业信息查询服务",
+                        "doc_searchrank_deepfm2_emb": [],
+                        "hospital_docid_list": []
+                    }
+                ],
+                "box_info": {
+                    "intent_level": 3,
+                    "box_feature": {
+                        "category_id_list": [],
+                        "box_item_list": [],
+                        "display_info": {
+                            "title": "上海米其林轮胎有限公司-企业信息查询服务",
+                            "field_text": [
+                                {
+                                    "field": "keyword",
+                                    "text": "叶菲"
+                                },
+                                {
+                                    "field": "keyword",
+                                    "text": "111320 万人民币"
+                                },
+                                {
+                                    "field": "keyword",
+                                    "text": "2001-03-22"
+                                },
+                                {
+                                    "field": "keyword",
+                                    "text": "Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG"
+                                },
+                                {
+                                    "field": "keyword",
+                                    "text": "叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚"
+                                }
+                            ]
+                        }
+                    },
+                    "box_item_list": []
+                }
+            },
+            "kv_items": [],
+            "rule_info": [],
+            "searchrank_dcn_emb": [],
+            "searchrank_deepfm2_emb": [],
+            "expt_param": []
+        },
+        "use_box_info": true
+    },
+    "box_info_list": [
+        {
+            "box_info_json": "{\"boxID\":\"0x100000000000-10060-\",\"header\":{\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"header:header\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"title\":\"<em class=\\\"highlight\\\">#米其林轮胎</em> - 企业信息\",\"type\":0},\"items\":[{\"action\":{\"jumpInfo\":{\"debugMode\":0,\"jumpType\":2,\"reportId\":\"%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappAppid\":\"wxe45b0e313b2457ec\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"noTopLine\":1,\"title\":\"更多工商信息、司法涉诉、知识产权等\"},\"docID\":\"1-10212617446288957021\",\"itemInfo\":{\"list\":[{\"label\":\"法定代表人\",\"value\":\"叶菲\"},{\"label\":\"注册资本\",\"value\":\"111320 万人民币\"},{\"label\":\"成立日期\",\"value\":\"2001-03-22\"},{\"label\":\"股东\",\"value\":\"Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG\"},{\"label\":\"主要人员\",\"value\":\"叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚\"}],\"name\":\"上海米其林轮胎有限公司\",\"thumbUrl\":\"https://qxb-logo-url.oss-cn-hangzhou.aliyuncs.com/OriginalUrl/48b92901fc9547900f68597d3dd7acf3.jpg\",\"type\":1043},\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"panel:panel\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"report_iteminfo_list_str\":\"panel:panel;%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"title\":null}],\"real_type\":20971520,\"report_box_extinfo_str\":\"%7B%22commercial_settle_type%22%3A0%2C%22commercial_status%22%3A1%2C%22cpid%22%3A3507019339%2C%22encode_busi_sub_type%22%3A%2281ee21bb6dd300234b3e55baa32599e73e8b0119%22%2C%22is_commercial%22%3Atrue%7D\",\"source\":{\"iconUrl\":\"http://mmbiz.qpic.cn/mmbiz_png/Ot2fAppmFPJyAXmBUJLWH4TWViaQbfrR4dBWqtvSUlibBwe4yF87wkjGXHNHuc7NWuIUUUxthMXwpnN3tqiaqhicqw/640?wx_fmt=png&wxfrom=200\",\"title\":\"启信宝商业搜索\"},\"subType\":10060,\"type\":52}\n",
+            "sub_type": 10060,
+            "item_list": [
+                {
+                    "doc_id": 1,
+                    "title": "",
+                    "string_docid": "1-10212617446288957021"
+                }
+            ],
+            "ext_info": {
+                "mixerrank_box_info": {
+                    "business_type": 17592186044416,
+                    "sub_type": 10060,
+                    "client_type": 20971520,
+                    "baikal_detail": {
+                        "result": [
+                            {
+                                "doc_id": "1-10212617446288957021",
+                                "title": "上海米其林轮胎有限公司-企业信息查询服务",
+                                "doc_searchrank_deepfm2_emb": [],
+                                "hospital_docid_list": []
+                            }
+                        ],
+                        "box_info": {
+                            "intent_level": 3,
+                            "box_feature": {
+                                "category_id_list": [],
+                                "box_item_list": [],
+                                "display_info": {
+                                    "title": "上海米其林轮胎有限公司-企业信息查询服务",
+                                    "field_text": [
+                                        {
+                                            "field": "keyword",
+                                            "text": "叶菲"
+                                        },
+                                        {
+                                            "field": "keyword",
+                                            "text": "111320 万人民币"
+                                        },
+                                        {
+                                            "field": "keyword",
+                                            "text": "2001-03-22"
+                                        },
+                                        {
+                                            "field": "keyword",
+                                            "text": "Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG"
+                                        },
+                                        {
+                                            "field": "keyword",
+                                            "text": "叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚"
+                                        }
+                                    ]
+                                }
+                            },
+                            "box_item_list": []
+                        }
+                    },
+                    "kv_items": [],
+                    "rule_info": [],
+                    "searchrank_dcn_emb": [],
+                    "searchrank_deepfm2_emb": [],
+                    "expt_param": []
+                },
+                "use_box_info": true
+            },
+            "business_type": 17592186044416,
+            "weak_box_info_json": "{\"boxID\":\"0x100000000000-10060-\",\"header\":{\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"header:header\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"title\":\"<em class=\\\"highlight\\\">#米其林轮胎</em> - 企业信息\",\"type\":0},\"items\":[{\"action\":{\"jumpInfo\":{\"debugMode\":0,\"jumpType\":2,\"reportId\":\"%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappAppid\":\"wxe45b0e313b2457ec\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"noTopLine\":1,\"title\":\"更多工商信息、司法涉诉、知识产权等\"},\"docID\":\"1-10212617446288957021\",\"itemInfo\":{\"list\":[{\"label\":\"法定代表人\",\"value\":\"叶菲\"},{\"label\":\"注册资本\",\"value\":\"111320 万人民币\"},{\"label\":\"成立日期\",\"value\":\"2001-03-22\"},{\"label\":\"股东\",\"value\":\"Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG\"},{\"label\":\"主要人员\",\"value\":\"叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚\"}],\"name\":\"上海米其林轮胎有限公司\",\"thumbUrl\":\"https://qxb-logo-url.oss-cn-hangzhou.aliyuncs.com/OriginalUrl/48b92901fc9547900f68597d3dd7acf3.jpg\",\"type\":1043},\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"panel:panel\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"report_iteminfo_list_str\":\"panel:panel;%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\"}],\"real_type\":20971520,\"report_box_extinfo_str\":\"%7B%22commercial_settle_type%22%3A0%2C%22commercial_status%22%3A1%2C%22cpid%22%3A3507019339%2C%22encode_busi_sub_type%22%3A%2281ee21bb6dd300234b3e55baa32599e73e8b0119%22%2C%22is_commercial%22%3Atrue%7D\",\"source\":{\"iconUrl\":\"http://mmbiz.qpic.cn/mmbiz_png/Ot2fAppmFPJyAXmBUJLWH4TWViaQbfrR4dBWqtvSUlibBwe4yF87wkjGXHNHuc7NWuIUUUxthMXwpnN3tqiaqhicqw/640?wx_fmt=png&wxfrom=200\",\"title\":\"启信宝商业搜索\"},\"subType\":10060,\"type\":52}\n",
+            "total_num": 0,
+            "next_offset": 0
+        }
+    ],
+    "middlepage_ext_infos": [],
+    "weak_box_info_json": "{\"boxID\":\"0x100000000000-10060-\",\"header\":{\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"header:header\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"title\":\"<em class=\\\"highlight\\\">#米其林轮胎</em> - 企业信息\",\"type\":0},\"items\":[{\"action\":{\"jumpInfo\":{\"debugMode\":0,\"jumpType\":2,\"reportId\":\"%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappAppid\":\"wxe45b0e313b2457ec\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"noTopLine\":1,\"title\":\"更多工商信息、司法涉诉、知识产权等\"},\"docID\":\"1-10212617446288957021\",\"itemInfo\":{\"list\":[{\"label\":\"法定代表人\",\"value\":\"叶菲\"},{\"label\":\"注册资本\",\"value\":\"111320 万人民币\"},{\"label\":\"成立日期\",\"value\":\"2001-03-22\"},{\"label\":\"股东\",\"value\":\"Compagnie Financière Michelin 米其林（中国）投资有限公司 NITOR AG\"},{\"label\":\"主要人员\",\"value\":\"叶菲 Marc,Claude,Robert FLAMAND Zhaohua WANG（王兆华） 刘鹏 朱海燕 许岚\"}],\"name\":\"上海米其林轮胎有限公司\",\"thumbUrl\":\"https://qxb-logo-url.oss-cn-hangzhou.aliyuncs.com/OriginalUrl/48b92901fc9547900f68597d3dd7acf3.jpg\",\"type\":1043},\"jumpInfo\":{\"jumpType\":2,\"reportId\":\"panel:panel\",\"userName\":\"gh_f6d6ec1a88ac@app\",\"weappUrl\":\"/pages/company/index?eid=c2fe87a5-c4c0-4fa4-885c-3d05c119821f&jumpFrom=widget&from=widget&keyword=上海米其林轮胎有限公司&ts=1726131730283&listindex=0\"},\"report_iteminfo_list_str\":\"panel:panel;%E4%B8%8A%E6%B5%B7%E7%B1%B3%E5%85%B6%E6%9E%97%E8%BD%AE%E8%83%8E%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8:more_info:546526\"}],\"real_type\":20971520,\"report_box_extinfo_str\":\"%7B%22commercial_settle_type%22%3A0%2C%22commercial_status%22%3A1%2C%22cpid%22%3A3507019339%2C%22encode_busi_sub_type%22%3A%2281ee21bb6dd300234b3e55baa32599e73e8b0119%22%2C%22is_commercial%22%3Atrue%7D\",\"source\":{\"iconUrl\":\"http://mmbiz.qpic.cn/mmbiz_png/Ot2fAppmFPJyAXmBUJLWH4TWViaQbfrR4dBWqtvSUlibBwe4yF87wkjGXHNHuc7NWuIUUUxthMXwpnN3tqiaqhicqw/640?wx_fmt=png&wxfrom=200\",\"title\":\"启信宝商业搜索\"},\"subType\":10060,\"type\":52}\n",
+    "business_type": 17592186044416
+}
